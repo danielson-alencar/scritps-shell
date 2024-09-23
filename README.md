@@ -19,3 +19,7 @@ Você pode baixar o script diretamente do GitHub usando o comando `wget`:
 
 ```bash
 wget --no-check-certificate https://raw.githubusercontent.com/danielson-alencar/scritps-shell/refs/heads/main/kill-zumbi.sh
+chmod +x kill-zumbi.sh
+sudo ./kill-zumbi.sh
+
+
